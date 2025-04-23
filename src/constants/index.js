@@ -75,7 +75,7 @@ const navLinks = [
     {
       imgPath: "/images/seo.png",
       title: "Quality Focus",
-      desc: "Delivering high-quality results while maintaining attention to every detail.",
+      desc: "Delivering high-quality results with great attention to every single detail",
     },
     {
       imgPath: "/images/chat.png",
@@ -85,7 +85,7 @@ const navLinks = [
     {
       imgPath: "/images/time.png",
       title: "On-Time Delivery",
-      desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+      desc: "Making sure projects are completed on schedule without compromising quality.",
     },
   ];
   
