@@ -5,7 +5,6 @@ import HeroExperience from '../components/HeroModels/HeroExperience.jsx'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import AnimatedCounter from '../components/AnimatedCounter.jsx'
-import ShowcaseSection from './ShowcaseSection.jsx'
 
 const Hero = () => {
 
@@ -49,7 +48,7 @@ const Hero = () => {
                         <h1>into Real Projects</h1>
                         <h1>that Deliver Results</h1>
                     </div>
-                    <p className='text-white-50 md:text-xl relative z-10 pointers-events-none'>Hi, I'm <span className='text-blue-500 font-bold'>Lota,</span> a Web Developer based in Cyprus proficient with making code wonderful</p>
+                    <p className='text-white-50 md:text-xl relative z-10 pointers-events-none'>Hi, I'm <span className='text-blue-500 font-bold'>LOTA</span>, a Web Developer based in Cyprus proficient with making code wonderful</p>
                     <Button 
                     className="md:w-80 md:h-16 w-60 h-12"
                     id="button"
@@ -60,14 +59,14 @@ const Hero = () => {
 
             {/* Right: 3D model */}
             <figure>
-                <div className='hero-3d-layout'>
+                <div className='hero-3d-layout animate-pulse'>
                     <HeroExperience />
                 </div>
             </figure>
         </div>
 
         <AnimatedCounter />
-        <ShowcaseSection />
+        
     </section>
   )
 }
