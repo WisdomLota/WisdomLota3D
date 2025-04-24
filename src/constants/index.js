@@ -207,7 +207,7 @@ const navLinks = [
       name: "Esther Howard",
       mentions: "@estherhoward",
       review:
-        "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
+        "I can't say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
       imgPath: "/images/client1.png",
     },
     {
@@ -228,14 +228,14 @@ const navLinks = [
       name: "Marvin McKinney",
       mentions: "@marvinmckinney",
       review:
-        "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
+        "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that's both modern and easy to navigate. Fantastic work overall.",
       imgPath: "/images/client5.png",
     },
     {
       name: "Floyd Miles",
       mentions: "@floydmiles",
       review:
-        "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
+        "Adrian's expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
       imgPath: "/images/client4.png",
     },
     {
