@@ -8,8 +8,9 @@ const TechIcon = ({ model }) => {
 
     const scene = useGLTF(model.modelPath);
 
+    //tweak the color of the techicon for the interactive developer only
     useEffect(() => {
-        if (model.name === 'Interactive Developer') {
+        if (model.name === 'Interactive Development') {
             scene.scene.traverse((child) => {
                 if (child.isMesh && child.name === 'Object_5') {
                     child.material = new THREE.MeshStandardMaterial({ color: 'blue'})

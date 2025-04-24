@@ -114,34 +114,34 @@ const navLinks = [
   
   const techStackIcons = [
     {
-      name: "React Developer",
+      name: "Frontend Development",
       modelPath: "/models/react_logo-transformed.glb",
       scale: 1,
       rotation: [0, 0, 0],
     },
     {
-      name: "Python Developer",
-      modelPath: "/models/python-transformed.glb",
-      scale: 0.8,
-      rotation: [0, 0, 0],
-    },
-    {
-      name: "Backend Developer",
-      modelPath: "/models/node-transformed.glb",
-      scale: 5,
-      rotation: [0, -Math.PI / 2, 0],
-    },
-    {
-      name: "Interactive Developer",
+      name: "Interactive Development",
       modelPath: "/models/three.js-transformed.glb",
       scale: 0.05,
       rotation: [0, 0, 0],
     },
     {
-      name: "Project Manager",
+      name: "Project Management",
       modelPath: "/models/git-svg-transformed.glb",
       scale: 0.05,
       rotation: [0, -Math.PI / 4, 0],
+    },
+    {
+      name: "Automated Development",
+      modelPath: "/models/python-transformed.glb",
+      scale: 0.8,
+      rotation: [0, 0 , 0],
+    },
+    {
+      name: "Backend Integration",
+      modelPath: "/models/node-transformed.glb",
+      scale: 5,
+      rotation: [0, -Math.PI / 2, 0],
     },
   ];
   
@@ -161,7 +161,7 @@ const navLinks = [
     },
     {
       review:
-        "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+        "Adrian's contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
       imgPath: "/images/exp2.png",
       logoPath: "/images/logo2.png",
       title: "Full Stack Developer",
@@ -174,7 +174,7 @@ const navLinks = [
     },
     {
       review:
-        "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+        "Adrian's work on Appwrite's mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
       imgPath: "/images/exp3.png",
       logoPath: "/images/logo3.png",
       title: "React Native Developer",
