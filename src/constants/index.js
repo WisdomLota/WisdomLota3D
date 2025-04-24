@@ -250,22 +250,27 @@ const navLinks = [
   const socialImgs = [
     {
       name: "insta",
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/stayweirdlota_?igsh=MTV2aDhpc2V1cWFxdw%3D%3D&utm_source=qr",
       imgPath: "/images/insta.png",
     },
     {
-      name: "fb",
-      url: "https://www.facebook.com/",
-      imgPath: "/images/fb.png",
+      name: "whatsapp",
+      url: "https://wa.me/2348108253273",
+      imgPath: "/images/whatsapp.png",
     },
-    {
-      name: "x",
-      url: "https://www.x.com/",
-      imgPath: "/images/x.png",
-    },
+    // {
+    //   name: "fb",
+    //   url: "https://www.facebook.com/",
+    //   imgPath: "/images/fb.png",
+    // },
+    // {
+    //   name: "x",
+    //   url: "https://www.x.com/",
+    //   imgPath: "/images/x.png",
+    // },
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/",
+      url: "https://www.linkedin.com/in/wisdom-ngaloru-26371a255",
       imgPath: "/images/linkedin.png",
     },
   ];
