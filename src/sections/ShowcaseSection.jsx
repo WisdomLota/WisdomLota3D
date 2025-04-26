@@ -42,7 +42,7 @@ const ShowcaseSection = () => {
         <div className='w-full'>
             <div className='showcaselayout'>
                 {/* LEFT AREA */}
-                <div className='first-project-wrapper mr-2' ref={project1Ref}>
+                <a href='https://akh-construction-ltd.vercel.app/' target="_blank" className='first-project-wrapper mr-2 cursor-pointer' ref={project1Ref}>
                     <div className='image-wrapper'>
                         <img src="/images/akhProject.png" alt="AKH Project" />
                     </div>
@@ -50,22 +50,22 @@ const ShowcaseSection = () => {
                         <h2>Purchase, Display, Visualization and Communication for Real Estate Homes made easy for AKH Construction Ltd. </h2>
                         <p>A web Application built with React.js and TailwindCSS for a sleek Design and User-Friendly experience.</p>
                     </div>
-                </div>
+                </a>
 
                 {/* RIGHT AREA */}
                 <div className='project-list-wrapper overflow-hidden'>
-                    <div className='project mr-2' ref={project2Ref}>
+                    <a href='https://pixel-codex-spw.vercel.app/' target='_blank' className='project mr-2 cursor-pointer' ref={project2Ref}>
                         <div className='image-wrapper bg-[#212121]'>
                             <img src="/images/pixelProject.png" alt="Pixel Codex Consulation Platform"/>
                         </div>
                         <h2>In-built Consultation Booking Platform</h2>
-                    </div>
-                    <div className='project mr-2' ref={project3Ref}>
+                    </a>
+                    <a href='https://oryzon-website.vercel.app/' target='_blank' className='project mr-2 cursor-pointer' ref={project3Ref}>
                         <div className='image-wrapper bg-[#1e1e1e]'>
                             <img src="/images/oryzonProject.png" alt="Pixel Codex Consulation Platform"/>
                         </div>
                         <h2>Oryzon Social Platform - Connect & Market</h2>
-                    </div>
+                    </a>
                 </div>
             </div>
         </div>

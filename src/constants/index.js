@@ -11,10 +11,10 @@ const navLinks = [
       name: "Skills",
       link: "#skills",
     },
-    {
-      name: "Testimonials",
-      link: "#testimonials",
-    },
+    // {
+    //   name: "Testimonials",
+    //   link: "#testimonials",
+    // },
   ];
   
   const words = [
@@ -257,6 +257,11 @@ const navLinks = [
       name: "whatsapp",
       url: "https://wa.me/2348108253273",
       imgPath: "/images/whatsapp.png",
+    },
+    {
+      name: "github",
+      url: "https://github.com/WisdomLota",
+      imgPath: "/images/github.png",
     },
     // {
     //   name: "fb",
