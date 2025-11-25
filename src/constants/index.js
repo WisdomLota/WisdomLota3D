@@ -148,28 +148,28 @@ const navLinks = [
   const expCards = [
     {
       review:
-        "Lota brought creativity and technical expertise to the team, significantly improving our frontend performance whilst accomplishing tasks with speed. His work has been invaluable in delivering faster experiences.",
-      imgPath: "/images/oryzonLogo.svg",
-      logoPath: "/images/oryzonLogo.svg",
-      title: "Frontend Developer",
-      date: "January 2025 - Present",
+        "Working with Lota was excellent. He quickly adapted to our existing infrastructure and made seamless modifications and integrations. His ability to collaborate effectively within established systems is truly impressive.",
+      imgPath: "/images/neuLogo.svg",
+      logoPath: "/images/neuLogo.svg",
+      title: "Front End Engineer",
+      date: "June 2025 - Present",
       responsibilities: [
-        "Translated Figma Designs into fully responsive  and compatible web pages",
-        "Created clean interactive UI components using React and Tailwind CSS.",
-        "Enhanced website performance through code optimization, group reviews and best practices.",
+        "Implemented frontend architecture using Next.js to enhance performance and scalability.",
+        "Integrated backend APIs and services to enable seamless data flow and functionality.",
+        "Implemented AI model integrations to enhance platform capabilities.",
       ],
     },
     {
       review:
-        "Lota single-handedly translated our designs into a functional web application. It's outstanding how he approaches challenges with a problem-solving mindset.",
-      imgPath: "/images/AKHlogo.svg",
-      logoPath: "/images/AKHicon.svg",
-      title: "Front End Developer",
-      date: "March 2024 - May 2024",
+        "Lota brought creativity and technical expertise to the team, significantly improving our frontend performance whilst accomplishing tasks with speed. His work has been invaluable in delivering faster experiences.",
+      imgPath: "/images/oryzonLogo.svg",
+      logoPath: "/images/oryzonLogo.svg",
+      title: "Frontend Developer",
+      date: "January 2025 - May 2025",
       responsibilities: [
-        "Led the frontend development of AKH's web application, focusing on scalability.",
-        "Created reusable forms and cards components for future use.",
-        "Collaborated with the team to optimize UI elements, enhancing user experience.",
+        "Translated Figma Designs into fully responsive  and compatible web pages",
+        "Created clean interactive UI components using React and Tailwind CSS.",
+        "Enhanced website performance through code optimization, group reviews and best practices.",
       ],
     },
     {
@@ -185,6 +185,19 @@ const navLinks = [
         "Curate project based courses for students regarding Frontend Development.",
       ],
     },
+    {
+      review:
+        "Lota single-handedly translated our designs into a functional web application. It's outstanding how he approaches challenges with a problem-solving mindset.",
+      imgPath: "/images/AKHlogo.svg",
+      logoPath: "/images/AKHicon.svg",
+      title: "Front End Developer",
+      date: "March 2024 - May 2024",
+      responsibilities: [
+        "Led the frontend development of AKH's web application, focusing on scalability.",
+        "Created reusable forms and cards components for future use.",
+        "Collaborated with the team to optimize UI elements, enhancing user experience.",
+      ],
+    }
   ];
   
   const expLogos = [
